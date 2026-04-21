@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عتمة الليل أبحث عن ضياك
+> والروح تهمس شوقا في هواك
+> خذني إليك لا أريد سواك
+> قلبي أسير في سحر عيناك
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
