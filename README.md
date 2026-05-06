@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/leena-ra2sa/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Leena Ra2sa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
