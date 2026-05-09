@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Leena Ra2sa
+
+This log tracks the cryptographic history and versioning for the song **Leena Ra2sa** (leena-ra2sa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:46:39.667184 | `v1` | `8bfbb70988ef36df3d7a88abfbaf2e76137dc29ddbf6264ed3cbabd7b89aa7e3` | `cdf8148bbc6d3a9904bef11fa87e253b0f59ea55f0674b1b60abbaf413b2af1e` | `2026-05-09_leena-ra2sa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
